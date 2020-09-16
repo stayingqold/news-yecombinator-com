@@ -1,8 +1,8 @@
 import React from "react";
 
 function timeDifference(created) {
-    const current = new Date().getTime().toString()
-    const previous = new Date(created).getTime().toString() * 1000
+    const current = parseInt(new Date().getTime().toString())
+    const previous = parseInt(new Date(created).getTime().toString()) * 1000
 
     const elapsed = current - previous
 
@@ -11,10 +11,7 @@ function timeDifference(created) {
     const milliSecondsPerDay = milliSecondsPerHour * 24
     const milliSecondsPerMonth = milliSecondsPerDay * 30
     const milliSecondsPerYear = milliSecondsPerDay * 365
-  
-    if (elapsed < milliSecondsPerMinute / 3) {
-      return 'just now'
-    }
+    
     if (elapsed < milliSecondsPerMinute) {
       return 'less than 1 min ago'
     } else if (elapsed < milliSecondsPerHour) {

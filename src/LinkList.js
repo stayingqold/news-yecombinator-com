@@ -49,7 +49,7 @@ class LinkList extends Component {
                     <ol>
                     {
                         posts.map((post, index) => (
-                            <Link key = {post.data.permalink} num_comments = {post.data.num_comments} created = {post.data.created} points = {post.data.ups} author = {post.data.author} title={post.data.title} permalink={post.data.permalink} index={index} />
+                            <Link key = {post.data.permalink} num_comments = {post.data.num_comments} created = {post.data.created_utc} points = {post.data.ups} author = {post.data.author} title={post.data.title} permalink={post.data.permalink} index={index} />
                         ))
                     }
                     </ol>
