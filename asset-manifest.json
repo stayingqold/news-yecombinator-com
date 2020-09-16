@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/news-yecombinator-com/static/css/main.f05f22ac.chunk.css",
+    "main.js": "/news-yecombinator-com/static/js/main.50601fe0.chunk.js",
+    "main.js.map": "/news-yecombinator-com/static/js/main.50601fe0.chunk.js.map",
+    "runtime-main.js": "/news-yecombinator-com/static/js/runtime-main.af174773.js",
+    "runtime-main.js.map": "/news-yecombinator-com/static/js/runtime-main.af174773.js.map",
+    "static/js/2.8ddf5529.chunk.js": "/news-yecombinator-com/static/js/2.8ddf5529.chunk.js",
+    "static/js/2.8ddf5529.chunk.js.map": "/news-yecombinator-com/static/js/2.8ddf5529.chunk.js.map",
+    "index.html": "/news-yecombinator-com/index.html",
+    "precache-manifest.451e2bc0b72b19a02ea3708160b0d0e4.js": "/news-yecombinator-com/precache-manifest.451e2bc0b72b19a02ea3708160b0d0e4.js",
+    "service-worker.js": "/news-yecombinator-com/service-worker.js",
+    "static/css/main.f05f22ac.chunk.css.map": "/news-yecombinator-com/static/css/main.f05f22ac.chunk.css.map",
+    "static/js/2.8ddf5529.chunk.js.LICENSE.txt": "/news-yecombinator-com/static/js/2.8ddf5529.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/news-yecombinator-com/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af174773.js",
+    "static/js/2.8ddf5529.chunk.js",
+    "static/css/main.f05f22ac.chunk.css",
+    "static/js/main.50601fe0.chunk.js"
+  ]
+}
