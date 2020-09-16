@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1227458dbb6591cf7ce646836560ea84",
+    "revision": "e5c7ec566dfe4194e4e7016b84a4c139",
     "url": "/news-yecombinator-com/index.html"
   },
   {
-    "revision": "3c91c51855d700ce46a9",
+    "revision": "2f7f5ee3e616646a7376",
     "url": "/news-yecombinator-com/static/css/main.f05f22ac.chunk.css"
   },
   {
-    "revision": "89d3b91449cd205015d9",
-    "url": "/news-yecombinator-com/static/js/2.8ddf5529.chunk.js"
+    "revision": "d59119425f0ce8dc77d4",
+    "url": "/news-yecombinator-com/static/js/2.4f29afcf.chunk.js"
   },
   {
-    "revision": "6287c65a6963df837d60dc49bb220910",
-    "url": "/news-yecombinator-com/static/js/2.8ddf5529.chunk.js.LICENSE.txt"
+    "revision": "ebfd6c8ee3c3defbbf42cd59c3d40810",
+    "url": "/news-yecombinator-com/static/js/2.4f29afcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c91c51855d700ce46a9",
-    "url": "/news-yecombinator-com/static/js/main.7ece68f1.chunk.js"
+    "revision": "2f7f5ee3e616646a7376",
+    "url": "/news-yecombinator-com/static/js/main.1263ae53.chunk.js"
   },
   {
     "revision": "c4e39e7ef843a9b1d2ab",

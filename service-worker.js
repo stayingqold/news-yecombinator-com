@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/news-yecombinator-com/precache-manifest.2915b1f802f991e468eb68bf08855708.js"
+  "/news-yecombinator-com/precache-manifest.966998fe7c5373f03b9623aafbf67a53.js"
 );
 
 self.addEventListener('message', (event) => {
