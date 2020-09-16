@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/news-yecombinator-com/static/css/main.f05f22ac.chunk.css",
-    "main.js": "/news-yecombinator-com/static/js/main.1263ae53.chunk.js",
-    "main.js.map": "/news-yecombinator-com/static/js/main.1263ae53.chunk.js.map",
+    "main.js": "/news-yecombinator-com/static/js/main.cf9266ec.chunk.js",
+    "main.js.map": "/news-yecombinator-com/static/js/main.cf9266ec.chunk.js.map",
     "runtime-main.js": "/news-yecombinator-com/static/js/runtime-main.af174773.js",
     "runtime-main.js.map": "/news-yecombinator-com/static/js/runtime-main.af174773.js.map",
     "static/js/2.4f29afcf.chunk.js": "/news-yecombinator-com/static/js/2.4f29afcf.chunk.js",
     "static/js/2.4f29afcf.chunk.js.map": "/news-yecombinator-com/static/js/2.4f29afcf.chunk.js.map",
     "index.html": "/news-yecombinator-com/index.html",
-    "precache-manifest.966998fe7c5373f03b9623aafbf67a53.js": "/news-yecombinator-com/precache-manifest.966998fe7c5373f03b9623aafbf67a53.js",
+    "precache-manifest.9e90ffc381ae6b6b1f2fbaf8a69e5415.js": "/news-yecombinator-com/precache-manifest.9e90ffc381ae6b6b1f2fbaf8a69e5415.js",
     "service-worker.js": "/news-yecombinator-com/service-worker.js",
     "static/css/main.f05f22ac.chunk.css.map": "/news-yecombinator-com/static/css/main.f05f22ac.chunk.css.map",
     "static/js/2.4f29afcf.chunk.js.LICENSE.txt": "/news-yecombinator-com/static/js/2.4f29afcf.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.af174773.js",
     "static/js/2.4f29afcf.chunk.js",
     "static/css/main.f05f22ac.chunk.css",
-    "static/js/main.1263ae53.chunk.js"
+    "static/js/main.cf9266ec.chunk.js"
   ]
 }
