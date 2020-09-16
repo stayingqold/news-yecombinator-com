@@ -1,4 +1,5 @@
 import React from "react";
+import MediaQuery from 'react-responsive';
 
 function timeDifference(created) {
     const current = parseInt(new Date().getTime().toString())
@@ -38,9 +39,9 @@ const Link = ({ num_comments, created, points, author, title, permalink, index})
           </div>
       </div>
       <div className="ml1 items-start tl">
-        <div  style={{flex: 1, alignItems: 'left', justifyContent: 'left'}}>
+        <div  className="flexwrap" style={{flex: 1, alignItems: 'left', justifyContent: 'left', overflow:'wrap'}}>
           <a href={link} style={{textDecoration: 'none', color: 'black'}}>{title} </a>
-          <a className="gray cursor f11" href={link} target="__blank">
+          <a className="gray cursor f11" style={{"word-break": "break-all"}}href={link} target="__blank">
             ({permalink.substring(8)})
           </a>
         </div>
