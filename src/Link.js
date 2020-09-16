@@ -41,7 +41,7 @@ const Link = ({ num_comments, created, points, author, title, permalink, index})
       <div className="ml1 items-start tl">
         <div  className="flexwrap" style={{flex: 1, alignItems: 'left', justifyContent: 'left', overflow:'wrap'}}>
           <a href={link} style={{textDecoration: 'none', color: 'black'}}>{title} </a>
-          <a className="gray cursor f11" style={{"word-break": "break-all"}}href={link} target="__blank">
+          <a className="gray cursor f11" style={{"wordBreak": "break-all"}}href={link} target="__blank">
             ({permalink.substring(8)})
           </a>
         </div>

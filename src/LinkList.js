@@ -46,7 +46,7 @@ class LinkList extends Component {
         }else{
             return(
                 <div>
-                    <ol>
+                    <ol className="pl1 pr0">
                     {
                         posts.map((post, index) => (
                             <Link key = {post.data.permalink} num_comments = {post.data.num_comments} created = {post.data.created_utc} points = {post.data.ups} author = {post.data.author} title={post.data.title} permalink={post.data.permalink} index={index} />
