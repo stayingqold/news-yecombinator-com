@@ -1,5 +1,4 @@
 import React from "react";
-import MediaQuery from 'react-responsive';
 
 function timeDifference(created) {
     const current = parseInt(new Date().getTime().toString())
